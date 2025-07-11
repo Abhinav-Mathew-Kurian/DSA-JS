@@ -1,3 +1,5 @@
+//sliding window return longest substring which is unique
+
 function longestUniqueSubstring(s) {
   let set = new Set();
   let left = 0;
