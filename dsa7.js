@@ -25,7 +25,6 @@ function stringMani(arr) {
             read++;
         } else {
             if (count > 1) {
-                console.log('hi')
                 let splitted = count.toString().split('');
                 for (let ch of splitted) {
                     arr[write] = ch;
