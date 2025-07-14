@@ -56,8 +56,8 @@ function anagramChecker(inp1,inp2){
 
 
 
-const input1="rat" ;
-const input2="tar";
+const input1 = "anagram";
+const input2 = "nagaram";
 
 
 const ans = anagramChecker(input1,input2)
