@@ -29,7 +29,7 @@ function firstNonRepeatStringChar(inp){
     return -1;
 }
 
-const input="leetcode"
+const input = "loveleetcode";
 const ans = firstNonRepeatStringChar(input);
 console.log("First non repeating char position is:",ans)
 
