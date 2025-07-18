@@ -8,4 +8,4 @@ function reverseStr(str){
 
 
 
-console.log(reverseStr("abhinav")); // Expected output: "ollej"
+console.log(reverseStr("abhinav")); // Expected output: "olleh"
