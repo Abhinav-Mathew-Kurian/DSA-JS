@@ -6,3 +6,4 @@ Map, filter, Array, Splice, Slice
 HashMap
 ArraySum
 Stack
+monotonic stack
