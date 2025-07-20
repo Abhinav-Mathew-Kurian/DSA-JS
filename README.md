@@ -8,3 +8,4 @@ ArraySum
 Stack
 monotonic stack
 Recursion-factorial and basics
+31 questions..all easy to medium..up next is advanced recursion 
