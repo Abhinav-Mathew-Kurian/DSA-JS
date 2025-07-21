@@ -10,7 +10,7 @@
 // Output: 2   // 'v' is the first non-repeating
 
 // Input:  s = "aabb"
-// Output: -1  // all characters repeat
+// Output: -1  // all characters repeat.... easy with map just think of indrx counting
 
 function firstNonRepeatStringChar(inp){
     const charCounts=new Map();
