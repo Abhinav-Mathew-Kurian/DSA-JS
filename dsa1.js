@@ -1,4 +1,4 @@
-
+// frequency counter of elements in an array using objevt
 
 
 function freqCounter(arr){
