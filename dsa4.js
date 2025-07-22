@@ -1,3 +1,5 @@
+//unique two sum number 
+
 function uniqueTwoSum(arr, tar) {
   const seen = new Set(); // stores values we've seen
   const pairs = new Set(); // stores unique value pairs as strings
