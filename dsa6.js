@@ -1,6 +1,6 @@
 //Compress a string by replacing consecutive repeating characters with the character and count (only if count > 1).
 
-
+//two pointer
 
 function stringCompConc(inp) {
     let count = null;

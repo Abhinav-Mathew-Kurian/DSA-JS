@@ -1,4 +1,4 @@
-// palindrome of reversal of a string
+// palindrome of reversal of a string--call the function in fuction,check reversal of a string , check palindrome when calling thats all
 
 function reverseStr(str){
 

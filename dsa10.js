@@ -7,7 +7,7 @@ function longest2distinctSubstring(s) {
     let maxLen = 0;               // Length of the longest valid substring found
     let startIdx = 0;             // Starting index of that substring
 
-    // Expand the window by moving the right boundary
+    // Expand the window by moving the right boundary important thing to notice
     for (let right = 0; right < s.length; right++) {
         const char = s[right];
 
