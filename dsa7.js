@@ -10,7 +10,7 @@
 //     You must do this in-place, using only O(1) extra space.
 
 // Input:  ['a','a','b','b','c','c','c']
-// Output: ['a','2','b','2','c','3'], Return: 6
+// Output: ['a','2','b','2','c','3'], Return: 6----think about it must be something there to track it 
 
 
 function stringMani(arr) {
