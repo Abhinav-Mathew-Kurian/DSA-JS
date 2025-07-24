@@ -1,4 +1,4 @@
-//sliding window
+//sliding window  there will limit to slide or it should grow while poping
 
 function lengthOfLongestSubstring(s) {
   let set = new Set();    // To store characters in window
