@@ -2,7 +2,7 @@
 
 
 function freqCounter(arr){
-   const freq ={};
+   const freq ={};//maping- hold values and indecies
    for(let i =0;i< arr.length ;i++){
       const element = arr[i];
       if(freq[element]){
