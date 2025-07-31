@@ -1,4 +1,4 @@
-//  Problem 1: Valid Anagram
+//  Problem 1: Valid Anagram easy just need 2 functions that's all
 
 // Input: s = "anagram", t = "nagaram"
 // Output: true
