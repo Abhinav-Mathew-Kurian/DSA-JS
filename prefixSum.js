@@ -5,7 +5,7 @@
 // nums = [1, 2, 3]
 // k = 3
 
-// Output: 2 eg: 1+2,3
+// Output: 2 eg: 1+2,3. use map-sub array question 
 
 function prefixSum(inp,k){
 
