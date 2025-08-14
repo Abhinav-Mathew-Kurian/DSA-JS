@@ -7,6 +7,7 @@
 // Output: "aaabcbc"
 // Input: "3[a2[c]]"
 // Output: "accaccacc"
+//stack problem, deciding and encoding need stack manipulation 
 
 function stringDecode(s) {
   const strStack = []; // 📦 To store strings before each '['
